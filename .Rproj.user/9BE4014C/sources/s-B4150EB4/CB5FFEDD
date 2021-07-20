@@ -3,7 +3,7 @@
     "path": "E:/R Project/Getting and Cleaning Data - Coursera/CodeBook.md",
     "project_path": "CodeBook.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "4290440064",
     "contents": "",
     "dirty": false,
     "created": 1626793887697.0,
@@ -11,15 +11,15 @@
     "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "18,11",
-        "scrollLine": "3"
+        "cursorPosition": "84,33",
+        "scrollLine": "64"
     },
     "folds": "",
-    "lastKnownWriteTime": 1626794152,
+    "lastKnownWriteTime": 1626794474,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1626794152212,
+    "last_content_update": 1626794474794,
     "read_only": false,
     "read_only_alternatives": []
 }
