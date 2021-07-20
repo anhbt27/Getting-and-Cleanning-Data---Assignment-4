@@ -1,0 +1,25 @@
+{
+    "id": "3F4365C3",
+    "path": "E:/R Project/Getting and Cleaning Data - Coursera/run_analysis.R",
+    "project_path": "run_analysis.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1626790115801.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "48,52",
+        "scrollLine": "37"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1626793143,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1626793143838,
+    "read_only": false,
+    "read_only_alternatives": []
+}
